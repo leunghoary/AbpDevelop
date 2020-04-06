@@ -3342,11 +3342,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Work\\AbpDevelop\\src\\Volo.Abpdevelop.Payment.Alipay\\Volo.Abpdevelop.Payment.Alipay.csproj",
+      "projectUniqueName": "C:\\Work\\AbpDevelop\\framework\\src\\Volo.Abpdevelop.Payment.Alipay\\Volo.Abpdevelop.Payment.Alipay.csproj",
       "projectName": "Volo.Abpdevelop.Payment.Alipay",
-      "projectPath": "C:\\Work\\AbpDevelop\\src\\Volo.Abpdevelop.Payment.Alipay\\Volo.Abpdevelop.Payment.Alipay.csproj",
+      "projectPath": "C:\\Work\\AbpDevelop\\framework\\src\\Volo.Abpdevelop.Payment.Alipay\\Volo.Abpdevelop.Payment.Alipay.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Work\\AbpDevelop\\src\\Volo.Abpdevelop.Payment.Alipay\\obj\\",
+      "outputPath": "C:\\Work\\AbpDevelop\\framework\\src\\Volo.Abpdevelop.Payment.Alipay\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -3366,8 +3366,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Work\\AbpDevelop\\src\\Volo.Abpdevelop.Paymenter\\Volo.Abpdevelop.Payment.csproj": {
-              "projectPath": "C:\\Work\\AbpDevelop\\src\\Volo.Abpdevelop.Paymenter\\Volo.Abpdevelop.Payment.csproj"
+            "C:\\Work\\AbpDevelop\\framework\\src\\Volo.Abpdevelop.Paymenter\\Volo.Abpdevelop.Payment.csproj": {
+              "projectPath": "C:\\Work\\AbpDevelop\\framework\\src\\Volo.Abpdevelop.Paymenter\\Volo.Abpdevelop.Payment.csproj"
             }
           }
         }

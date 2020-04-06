@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Work\\AbpDevelop\\src\\Volo.Abpdevelop.Core\\Volo.Abpdevelop.Core.csproj": {}
+    "C:\\Work\\AbpDevelop\\framework\\src\\Volo.Abpdevelop.Core\\Volo.Abpdevelop.Core.csproj": {}
   },
   "projects": {
-    "C:\\Work\\AbpDevelop\\src\\Volo.Abpdevelop.Core\\Volo.Abpdevelop.Core.csproj": {
+    "C:\\Work\\AbpDevelop\\framework\\src\\Volo.Abpdevelop.Core\\Volo.Abpdevelop.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Work\\AbpDevelop\\src\\Volo.Abpdevelop.Core\\Volo.Abpdevelop.Core.csproj",
+        "projectUniqueName": "C:\\Work\\AbpDevelop\\framework\\src\\Volo.Abpdevelop.Core\\Volo.Abpdevelop.Core.csproj",
         "projectName": "Volo.Abpdevelop.Core",
-        "projectPath": "C:\\Work\\AbpDevelop\\src\\Volo.Abpdevelop.Core\\Volo.Abpdevelop.Core.csproj",
+        "projectPath": "C:\\Work\\AbpDevelop\\framework\\src\\Volo.Abpdevelop.Core\\Volo.Abpdevelop.Core.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Work\\AbpDevelop\\src\\Volo.Abpdevelop.Core\\obj\\",
+        "outputPath": "C:\\Work\\AbpDevelop\\framework\\src\\Volo.Abpdevelop.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -9,3 +9,14 @@ C:\Work\AbpDevelop\src\Volo.Abpdevelop.Paymenter\obj\Debug\netstandard2.0\Volo.A
 C:\Work\AbpDevelop\src\Volo.Abpdevelop.Paymenter\obj\Debug\netstandard2.0\Volo.Abpdevelop.Payment.csproj.CopyComplete
 C:\Work\AbpDevelop\src\Volo.Abpdevelop.Paymenter\obj\Debug\netstandard2.0\Volo.Abpdevelop.Payment.dll
 C:\Work\AbpDevelop\src\Volo.Abpdevelop.Paymenter\obj\Debug\netstandard2.0\Volo.Abpdevelop.Payment.pdb
+C:\Work\AbpDevelop\framework\src\Volo.Abpdevelop.Paymenter\bin\Debug\netstandard2.0\Volo.Abpdevelop.Payment.deps.json
+C:\Work\AbpDevelop\framework\src\Volo.Abpdevelop.Paymenter\bin\Debug\netstandard2.0\Volo.Abpdevelop.Payment.dll
+C:\Work\AbpDevelop\framework\src\Volo.Abpdevelop.Paymenter\bin\Debug\netstandard2.0\Volo.Abpdevelop.Payment.pdb
+C:\Work\AbpDevelop\framework\src\Volo.Abpdevelop.Paymenter\bin\Debug\netstandard2.0\Volo.Abpdevelop.Core.dll
+C:\Work\AbpDevelop\framework\src\Volo.Abpdevelop.Paymenter\bin\Debug\netstandard2.0\Volo.Abpdevelop.Core.pdb
+C:\Work\AbpDevelop\framework\src\Volo.Abpdevelop.Paymenter\obj\Debug\netstandard2.0\Volo.Abpdevelop.Payment.csprojAssemblyReference.cache
+C:\Work\AbpDevelop\framework\src\Volo.Abpdevelop.Paymenter\obj\Debug\netstandard2.0\Volo.Abpdevelop.Payment.AssemblyInfoInputs.cache
+C:\Work\AbpDevelop\framework\src\Volo.Abpdevelop.Paymenter\obj\Debug\netstandard2.0\Volo.Abpdevelop.Payment.AssemblyInfo.cs
+C:\Work\AbpDevelop\framework\src\Volo.Abpdevelop.Paymenter\obj\Debug\netstandard2.0\Volo.Abpdevelop.Payment.csproj.CopyComplete
+C:\Work\AbpDevelop\framework\src\Volo.Abpdevelop.Paymenter\obj\Debug\netstandard2.0\Volo.Abpdevelop.Payment.dll
+C:\Work\AbpDevelop\framework\src\Volo.Abpdevelop.Paymenter\obj\Debug\netstandard2.0\Volo.Abpdevelop.Payment.pdb
