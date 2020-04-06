@@ -1,0 +1,6 @@
+C:\Work\AbpDevelop\src\Volo.Abpdevelop.Payment.Wechat\bin\Debug\netstandard2.0\Volo.Abpdevelop.Core.dll
+C:\Work\AbpDevelop\src\Volo.Abpdevelop.Payment.Wechat\bin\Debug\netstandard2.0\Volo.Abpdevelop.Payment.dll
+C:\Work\AbpDevelop\src\Volo.Abpdevelop.Payment.Wechat\bin\Debug\netstandard2.0\Volo.Abpdevelop.Core.pdb
+C:\Work\AbpDevelop\src\Volo.Abpdevelop.Payment.Wechat\obj\Debug\netstandard2.0\Volo.Abpdevelop.Payment.Wechat.csprojAssemblyReference.cache
+C:\Work\AbpDevelop\src\Volo.Abpdevelop.Payment.Wechat\obj\Debug\netstandard2.0\Volo.Abpdevelop.Payment.Wechat.AssemblyInfoInputs.cache
+C:\Work\AbpDevelop\src\Volo.Abpdevelop.Payment.Wechat\obj\Debug\netstandard2.0\Volo.Abpdevelop.Payment.Wechat.AssemblyInfo.cs
