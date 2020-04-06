@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Work\\AbpDevelop\\framework\\src\\Volo.Abpdevelop.Payment.Alipay\\Volo.Abpdevelop.Payment.Alipay.csproj": {}
+    "C:\\Work\\AbpDevelop\\framework\\src\\Volo.Abpdevelop.Payment.Alipay\\Volo.Abpdevelop.Payment.AliPay.csproj": {}
   },
   "projects": {
     "C:\\Work\\AbpDevelop\\framework\\src\\Volo.Abpdevelop.Core\\Volo.Abpdevelop.Core.csproj": {
@@ -67,12 +67,12 @@
         }
       }
     },
-    "C:\\Work\\AbpDevelop\\framework\\src\\Volo.Abpdevelop.Payment.Alipay\\Volo.Abpdevelop.Payment.Alipay.csproj": {
+    "C:\\Work\\AbpDevelop\\framework\\src\\Volo.Abpdevelop.Payment.Alipay\\Volo.Abpdevelop.Payment.AliPay.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Work\\AbpDevelop\\framework\\src\\Volo.Abpdevelop.Payment.Alipay\\Volo.Abpdevelop.Payment.Alipay.csproj",
-        "projectName": "Volo.Abpdevelop.Payment.Alipay",
-        "projectPath": "C:\\Work\\AbpDevelop\\framework\\src\\Volo.Abpdevelop.Payment.Alipay\\Volo.Abpdevelop.Payment.Alipay.csproj",
+        "projectUniqueName": "C:\\Work\\AbpDevelop\\framework\\src\\Volo.Abpdevelop.Payment.Alipay\\Volo.Abpdevelop.Payment.AliPay.csproj",
+        "projectName": "Volo.Abpdevelop.Payment.AliPay",
+        "projectPath": "C:\\Work\\AbpDevelop\\framework\\src\\Volo.Abpdevelop.Payment.Alipay\\Volo.Abpdevelop.Payment.AliPay.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
         "outputPath": "C:\\Work\\AbpDevelop\\framework\\src\\Volo.Abpdevelop.Payment.Alipay\\obj\\",
         "projectStyle": "PackageReference",
