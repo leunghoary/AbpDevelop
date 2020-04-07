@@ -2,8 +2,9 @@
 
 namespace Volo.Abp.Payment.TenPay
 {
+    [DependsOn(typeof(AbpPaymentModule))]
     public class AbpPaymentTenPayModule : AbpModule
     {
-
+        
     }
 }
