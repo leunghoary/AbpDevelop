@@ -3,17 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{B639764D-C7D0-4860-A3A6-80ECBE6AAD54}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{EAB02C88-70E7-48B7-8568-5C0EA37885C5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Volo.Abpdevelop.Payment", "src\Volo.Abpdevelop.Paymenter\Volo.Abpdevelop.Payment.csproj", "{FB55EAD9-0D7E-4C30-AC5D-5C4DE6D2ECC5}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{3B25CE65-6441-4890-8797-EDD21BD78519}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Volo.Abpdevelop.Core", "src\Volo.Abpdevelop.Core\Volo.Abpdevelop.Core.csproj", "{26B3C585-B13D-4709-B5EE-14075816DEE0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Volo.Abpdevelop.Core", "src\Volo.Abpdevelop.Core\Volo.Abpdevelop.Core.csproj", "{5A0F719A-D0F0-4984-8AB1-374824426E1E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Volo.Abpdevelop.Payment.TenPay", "src\Volo.Abpdevelop.Payment.Wechat\Volo.Abpdevelop.Payment.TenPay.csproj", "{7DE406A8-9CE7-4BBF-AC9B-544C317996F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Volo.Abpdevelop.Payment.Alipay", "src\Volo.Abpdevelop.Payment.Alipay\Volo.Abpdevelop.Payment.Alipay.csproj", "{004968E6-2E2E-4F7D-95FA-1C0B6A278262}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Volo.Abpdevelop.Payment.Alipay", "src\Volo.Abpdevelop.Payment.Alipay\Volo.Abpdevelop.Payment.Alipay.csproj", "{1FE64088-EA33-4D25-8C00-23080FEB52E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Volo.Abpdevelop.Payment.TenPay", "src\Volo.Abpdevelop.Payment.TenPay\Volo.Abpdevelop.Payment.TenPay.csproj", "{DFC388E8-477E-4E35-8334-010B976D83B7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Volo.Abpdevelop.Payment", "src\Volo.Abpdevelop.Paymenter\Volo.Abpdevelop.Payment.csproj", "{5E86BAD2-BFFE-4B8C-93F1-092CB97E4715}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,31 +21,31 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FB55EAD9-0D7E-4C30-AC5D-5C4DE6D2ECC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FB55EAD9-0D7E-4C30-AC5D-5C4DE6D2ECC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FB55EAD9-0D7E-4C30-AC5D-5C4DE6D2ECC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FB55EAD9-0D7E-4C30-AC5D-5C4DE6D2ECC5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{26B3C585-B13D-4709-B5EE-14075816DEE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{26B3C585-B13D-4709-B5EE-14075816DEE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{26B3C585-B13D-4709-B5EE-14075816DEE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{26B3C585-B13D-4709-B5EE-14075816DEE0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7DE406A8-9CE7-4BBF-AC9B-544C317996F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7DE406A8-9CE7-4BBF-AC9B-544C317996F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7DE406A8-9CE7-4BBF-AC9B-544C317996F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7DE406A8-9CE7-4BBF-AC9B-544C317996F8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1FE64088-EA33-4D25-8C00-23080FEB52E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1FE64088-EA33-4D25-8C00-23080FEB52E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1FE64088-EA33-4D25-8C00-23080FEB52E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1FE64088-EA33-4D25-8C00-23080FEB52E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A0F719A-D0F0-4984-8AB1-374824426E1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A0F719A-D0F0-4984-8AB1-374824426E1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A0F719A-D0F0-4984-8AB1-374824426E1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A0F719A-D0F0-4984-8AB1-374824426E1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{004968E6-2E2E-4F7D-95FA-1C0B6A278262}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{004968E6-2E2E-4F7D-95FA-1C0B6A278262}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{004968E6-2E2E-4F7D-95FA-1C0B6A278262}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{004968E6-2E2E-4F7D-95FA-1C0B6A278262}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFC388E8-477E-4E35-8334-010B976D83B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFC388E8-477E-4E35-8334-010B976D83B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFC388E8-477E-4E35-8334-010B976D83B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFC388E8-477E-4E35-8334-010B976D83B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E86BAD2-BFFE-4B8C-93F1-092CB97E4715}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E86BAD2-BFFE-4B8C-93F1-092CB97E4715}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E86BAD2-BFFE-4B8C-93F1-092CB97E4715}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E86BAD2-BFFE-4B8C-93F1-092CB97E4715}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{FB55EAD9-0D7E-4C30-AC5D-5C4DE6D2ECC5} = {B639764D-C7D0-4860-A3A6-80ECBE6AAD54}
-		{26B3C585-B13D-4709-B5EE-14075816DEE0} = {B639764D-C7D0-4860-A3A6-80ECBE6AAD54}
-		{7DE406A8-9CE7-4BBF-AC9B-544C317996F8} = {B639764D-C7D0-4860-A3A6-80ECBE6AAD54}
-		{1FE64088-EA33-4D25-8C00-23080FEB52E3} = {B639764D-C7D0-4860-A3A6-80ECBE6AAD54}
+		{5A0F719A-D0F0-4984-8AB1-374824426E1E} = {3B25CE65-6441-4890-8797-EDD21BD78519}
+		{004968E6-2E2E-4F7D-95FA-1C0B6A278262} = {3B25CE65-6441-4890-8797-EDD21BD78519}
+		{DFC388E8-477E-4E35-8334-010B976D83B7} = {3B25CE65-6441-4890-8797-EDD21BD78519}
+		{5E86BAD2-BFFE-4B8C-93F1-092CB97E4715} = {3B25CE65-6441-4890-8797-EDD21BD78519}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DF0CB84B-128A-474F-962A-AB1331C95823}
